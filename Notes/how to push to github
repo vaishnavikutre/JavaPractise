@@ -1,0 +1,21 @@
+First time commit
+create repo 
+in vs code type 
+git romote rm origin
+git init
+git add .
+git commit -m "First commit"
+git push -u origin main
+
+
+
+if it denied by someone then go to credential manager->windows->git->remove that person
+
+
+
+
+After pushing first time ,if we made changes then how to push next changes
+git init
+git add .
+git commit -m "Added history"
+git push -u origin main
