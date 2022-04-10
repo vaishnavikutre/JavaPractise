@@ -51,3 +51,18 @@ It is a micro platform that is dedicated to mobile applications.
 
 4) JavaFX
 It is used to develop rich internet applications. It uses a lightweight user interface API.
+
+
+
+
+
+
+
+History
+
+Why Java was named as "Oak"?
+Java History from Oak to Java
+ Why Oak? 
+ Oak is a symbol of strength and chosen as a national tree of many countries like the U.S.A., France, Germany, Romania, etc.
+
+ In 1995, Oak was renamed as "Java" because it was already a trademark by Oak Technologies.
